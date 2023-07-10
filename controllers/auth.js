@@ -54,6 +54,8 @@ const updateUser = async (req, res) => {
   user.lastName = lastName;
   user.location = location;
 
+  await user.save();
+
   const token = await user.createJWT();
   res.status(StatusCodes.OK).json({
     user: {
