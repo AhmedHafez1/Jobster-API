@@ -1,0 +1,326 @@
+[
+  {
+    "company": "Acme Corporation",
+    "position": "Software Engineer",
+    "status": "interview",
+    "createdBy": "64ab725a30846433c4bafd26",
+    "jobType": "full-time",
+    "jobLocation": "San Francisco",
+    "createdAt": "2023-07-13T10:00:00Z"
+  },
+  {
+    "company": "XYZ Corp",
+    "position": "Product Manager",
+    "status": "declined",
+    "createdBy": "64ab725a30846433c4bafd26",
+    "jobType": "part-time",
+    "jobLocation": "New York",
+    "createdAt": "2023-07-12T15:30:00Z"
+  },
+  {
+    "company": "Tech Solutions Ltd",
+    "position": "Data Scientist",
+    "status": "pending",
+    "createdBy": "64ab725a30846433c4bafd26",
+    "jobType": "remote",
+    "jobLocation": "London",
+    "createdAt": "2023-07-11T09:45:00Z"
+  },
+  {
+    "company": "Globex Corporation",
+    "position": "Marketing Manager",
+    "status": "interview",
+    "createdBy": "64ab725a30846433c4bafd26",
+    "jobType": "internship",
+    "jobLocation": "Los Angeles",
+    "createdAt": "2023-07-10T16:20:00Z"
+  },
+  {
+    "company": "Innovate IT Solutions",
+    "position": "Software Developer",
+    "status": "declined",
+    "createdBy": "64ab725a30846433c4bafd26",
+    "jobType": "full-time",
+    "jobLocation": "Toronto",
+    "createdAt": "2023-07-09T11:10:00Z"
+  },
+  {
+    "company": "Global Marketing Agency",
+    "position": "Digital Marketing Specialist",
+    "status": "pending",
+    "createdBy": "64ab725a30846433c4bafd26",
+    "jobType": "part-time",
+    "jobLocation": "Sydney",
+    "createdAt": "2023-07-08T14:50:00Z"
+  },
+  {
+    "company": "TechCo",
+    "position": "Frontend Developer",
+    "status": "interview",
+    "createdBy": "64ab725a30846433c4bafd26",
+    "jobType": "remote",
+    "jobLocation": "Berlin",
+    "createdAt": "2023-07-07T08:15:00Z"
+  },
+  {
+    "company": "Data Analytics Inc",
+    "position": "Data Analyst",
+    "status": "declined",
+    "createdBy": "64ab725a30846433c4bafd26",
+    "jobType": "internship",
+    "jobLocation": "Paris",
+    "createdAt": "2023-07-06T17:30:00Z"
+  },
+  {
+    "company": "E-commerce Solutions",
+    "position": "Sales Representative",
+    "status": "pending",
+    "createdBy": "64ab725a30846433c4bafd26",
+    "jobType": "full-time",
+    "jobLocation": "Melbourne",
+    "createdAt": "2023-07-05T12:40:00Z"
+  },
+  {
+    "company": "Startech",
+    "position": "UI/UX Designer",
+    "status": "interview",
+    "createdBy": "64ab725a30846433c4bafd26",
+    "jobType": "part-time",
+    "jobLocation": "San Francisco",
+    "createdAt": "2023-07-04T09:20:00Z"
+  },
+  {
+    "company": "Tech Solutions Ltd",
+    "position": "Software Engineer",
+    "status": "declined",
+    "createdBy": "64ab725a30846433c4bafd26",
+    "jobType": "remote",
+    "jobLocation": "London",
+    "createdAt": "2023-07-03T13:15:00Z"
+  },
+  {
+    "company": "Innovate IT Solutions",
+    "position": "Product Manager",
+    "status": "pending",
+    "createdBy": "64ab725a30846433c4bafd26",
+    "jobType": "internship",
+    "jobLocation": "Toronto",
+    "createdAt": "2023-07-02T16:50:00Z"
+  },
+  {
+    "company": "Globex Corporation",
+    "position": "Data Scientist",
+    "status": "interview",
+    "createdBy": "64ab725a30846433c4bafd26",
+    "jobType": "full-time",
+    "jobLocation": "Los Angeles",
+    "createdAt": "2023-07-01T10:30:00Z"
+  },
+  {
+    "company": "XYZ Corp",
+    "position": "Marketing Manager",
+    "status": "declined",
+    "createdBy": "64ab725a30846433c4bafd26",
+    "jobType": "part-time",
+    "jobLocation": "New York",
+    "createdAt": "2023-06-30T15:20:00Z"
+  },
+  {
+    "company": "Acme Corporation",
+    "position": "Software Developer",
+    "status": "pending",
+    "createdBy": "64ab725a30846433c4bafd26",
+    "jobType": "remote",
+    "jobLocation": "San Francisco",
+    "createdAt": "2023-06-29T11:40:00Z"
+  },
+  {
+    "company": "Global Marketing Agency",
+    "position": "Digital Marketing Specialist",
+    "status": "interview",
+    "createdBy": "64ab725a30846433c4bafd26",
+    "jobType": "internship",
+    "jobLocation": "Sydney",
+    "createdAt": "2023-06-28T14:55:00Z"
+  },
+  {
+    "company": "TechCo",
+    "position": "Frontend Developer",
+    "status": "declined",
+    "createdBy": "64ab725a30846433c4bafd26",
+    "jobType": "full-time",
+    "jobLocation": "Berlin",
+    "createdAt": "2023-06-27T08:25:00Z"
+  },
+  {
+    "company": "Data Analytics Inc",
+    "position": "Data Analyst",
+    "status": "pending",
+    "createdBy": "64ab725a30846433c4bafd26",
+    "jobType": "part-time",
+    "jobLocation": "Paris",
+    "createdAt": "2023-06-26T17:15:00Z"
+  },
+  {
+    "company": "E-commerce Solutions",
+    "position": "Sales Representative",
+    "status": "interview",
+    "createdBy": "64ab725a30846433c4bafd26",
+    "jobType": "remote",
+    "jobLocation": "Melbourne",
+    "createdAt": "2023-06-25T12:35:00Z"
+  },
+  {
+    "company": "Startech",
+    "position": "UI/UX Designer",
+    "status": "declined",
+    "createdBy": "64ab725a30846433c4bafd26",
+    "jobType": "internship",
+    "jobLocation": "San Francisco",
+    "createdAt": "2023-06-24T09:10:00Z"
+  },
+  {
+    "company": "Acme Corporation",
+    "position": "Software Engineer",
+    "status": "pending",
+    "createdBy": "64ab725a30846433c4bafd26",
+    "jobType": "full-time",
+    "jobLocation": "San Francisco",
+    "createdAt": "2023-06-23T13:05:00Z"
+  },
+  {
+    "company": "Tech Solutions Ltd",
+    "position": "Product Manager",
+    "status": "interview",
+    "createdBy": "64ab725a30846433c4bafd26",
+    "jobType": "remote",
+    "jobLocation": "London",
+    "createdAt": "2023-06-22T16:40:00Z"
+  },
+  {
+    "company": "Globex Corporation",
+    "position": "Data Scientist",
+    "status": "declined",
+    "createdBy": "64ab725a30846433c4bafd26",
+    "jobType": "internship",
+    "jobLocation": "Los Angeles",
+    "createdAt": "2023-06-21T10:20:00Z"
+  },
+  {
+    "company": "XYZ Corp",
+    "position": "Marketing Manager",
+    "status": "pending",
+    "createdBy": "64ab725a30846433c4bafd26",
+    "jobType": "part-time",
+    "jobLocation": "New York",
+    "createdAt": "2023-06-20T15:10:00Z"
+  },
+  {
+    "company": "Innovate IT Solutions",
+    "position": "Software Developer",
+    "status": "interview",
+    "createdBy": "64ab725a30846433c4bafd26",
+    "jobType": "full-time",
+    "jobLocation": "Toronto",
+    "createdAt": "2023-06-19T09:35:00Z"
+  },
+  {
+    "company": "Global Marketing Agency",
+    "position": "Digital Marketing Specialist",
+    "status": "declined",
+    "createdBy": "64ab725a30846433c4bafd26",
+    "jobType": "part-time",
+    "jobLocation": "Sydney",
+    "createdAt": "2023-06-18T14:45:00Z"
+  },
+  {
+    "company": "TechCo",
+    "position": "Frontend Developer",
+    "status": "pending",
+    "createdBy": "64ab725a30846433c4bafd26",
+    "jobType": "remote",
+    "jobLocation": "Berlin",
+    "createdAt": "2023-06-17T08:30:00Z"
+  },
+  {
+    "company": "Data Analytics Inc",
+    "position": "Data Analyst",
+    "status": "interview",
+    "createdBy": "64ab725a30846433c4bafd26",
+    "jobType": "internship",
+    "jobLocation": "Paris",
+    "createdAt": "2023-06-16T17:10:00Z"
+  },
+  {
+    "company": "E-commerce Solutions",
+    "position": "Sales Representative",
+    "status": "declined",
+    "createdBy": "64ab725a30846433c4bafd26",
+    "jobType": "full-time",
+    "jobLocation": "Melbourne",
+    "createdAt": "2023-06-15T12:50:00Z"
+  },
+  {
+    "company": "Startech",
+    "position": "UI/UX Designer",
+    "status": "pending",
+    "createdBy": "64ab725a30846433c4bafd26",
+    "jobType": "part-time",
+    "jobLocation": "San Francisco",
+    "createdAt": "2023-06-14T09:15:00Z"
+  },
+  {
+    "company": "Acme Corporation",
+    "position": "Software Engineer",
+    "status": "interview",
+    "createdBy": "64ab725a30846433c4bafd26",
+    "jobType": "remote",
+    "jobLocation": "San Francisco",
+    "createdAt": "2023-06-13T13:00:00Z"
+  },
+  {
+    "company": "Tech Solutions Ltd",
+    "position": "Product Manager",
+    "status": "declined",
+    "createdBy": "64ab725a30846433c4bafd26",
+    "jobType": "internship",
+    "jobLocation": "London",
+    "createdAt": "2023-06-12T16:35:00Z"
+  },
+  {
+    "company": "Globex Corporation",
+    "position": "Data Scientist",
+    "status": "pending",
+    "createdBy": "64ab725a30846433c4bafd26",
+    "jobType": "full-time",
+    "jobLocation": "Los Angeles",
+    "createdAt": "2023-06-11T10:10:00Z"
+  },
+  {
+    "company": "XYZ Corp",
+    "position": "Marketing Manager",
+    "status": "interview",
+    "createdBy": "64ab725a30846433c4bafd26",
+    "jobType": "part-time",
+    "jobLocation": "New York",
+    "createdAt": "2023-06-10T15:00:00Z"
+  },
+  {
+    "company": "Innovate IT Solutions",
+    "position": "Software Developer",
+    "status": "declined",
+    "createdBy": "64ab725a30846433c4bafd26",
+    "jobType": "remote",
+    "jobLocation": "Toronto",
+    "createdAt": "2023-06-09T09:25:00Z"
+  },
+  {
+    "company": "Global Marketing Agency",
+    "position": "Digital Marketing Specialist",
+    "status": "pending",
+    "createdBy": "64ab725a30846433c4bafd26",
+    "jobType": "internship",
+    "jobLocation": "Sydney",
+    "createdAt": "2023-06-08T14:35:00Z"
+  }
+]
