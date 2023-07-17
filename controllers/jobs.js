@@ -17,7 +17,12 @@ const getAllJobs = async (req, res) => {
     queryObject.jobType = jobType;
   }
 
-  const jobs = await Job.find(queryObject);
+  let sortProb = '-createdAt';
+  if (sort === 'oldest') sortProb = 'createdAt';
+  if (sort === 'a-z') sortProb = 'position';
+  if (sort === 'z-a') sortProb = '-position';
+
+  const jobs = await Job.find(queryObject).sort(sortProb);
   res.status(StatusCodes.OK).json({ jobs, count: jobs.length });
 };
 const getJob = async (req, res) => {
