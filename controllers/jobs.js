@@ -115,7 +115,7 @@ const showStats = async (req, res) => {
     declined: stats.declined || 0,
   };
 
-  const monthlyApplications = await Job.aggregate([
+  let monthlyApplications = await Job.aggregate([
     { $match: { createdBy: mongoose.Types.ObjectId(req.user.userId) } },
     {
       $group: {
@@ -127,8 +127,22 @@ const showStats = async (req, res) => {
     { $limit: 6 },
   ]);
 
+  monthlyApplications = monthlyApplications.map((item) => {
+    const {
+      _id: { year, month },
+      count,
+    } = item;
+
+    const date = moment()
+      .month(month - 1)
+      .year(year)
+      .format('MMM Y');
+
+    return { date, count };
+  });
+
   console.log(monthlyApplications);
-  res.status(StatusCodes.OK).json({ defaultStats, monthlyApplications: [] });
+  res.status(StatusCodes.OK).json({ defaultStats, monthlyApplications });
 };
 
 module.exports = {
